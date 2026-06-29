@@ -5,7 +5,7 @@ Data Engineer. Automatizo flujos de datos en producción real.
 
 ---
 
-**Stack:** Python · SQL · PowerShell · PostgreSQL · FastAPI · Node.js  
+**Stack:** Python · SQL · PowerShell · PostgreSQL · FastAPI · Node.js · Vue 3 · Quasar 
 **Siguiente:** Airflow · dbt · GCP/BigQuery
 
 ---
@@ -19,7 +19,9 @@ Scripts de automatización masiva en Microsoft 365 — licencias, usuarios y con
 SaaS backend multi-tenant para clínicas. Cifrado AES-256-GCM, JWT, +30 endpoints. FastAPI + PostgreSQL.
 
 **[sistema-ventas](https://github.com/Alexisboop13/sistema-ventas)**  
-API REST con CRUD completo, export a Excel y dashboard en tiempo real. Node.js + SQLite.
+Sistema de ventas completo. API REST, WebSockets en tiempo real, export Excel y PDF, 
+FastAPI con Bearer token, frontend Vue 3 + Quasar con ECharts e I18n, deploy con Apache. 
+Node.js + SQLite.
 
 ---
 
