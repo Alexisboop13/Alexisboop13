@@ -11,6 +11,9 @@ Data Engineer. Automatizo flujos de datos en producción real.
 
 ## Proyectos
 
+***[profeco-etl-pipeline] (https://github.com/Alexisboop13/profeco-etl-pipeline)**
+Pipeline ETL orquestado con Apache Airflow. Extrae, transforma y carga datos públicos de PROFECO (434K+ registros) a un warehouse en AWS (S3 + Glue + Athena) usando esquema estrella. De CSV crudo a insights consultables con SQL.
+
 **[microsoft365-automation-toolkit](https://github.com/Alexisboop13/microsoft365-automation-toolkit)**  
 Scripts de automatización masiva en Microsoft 365 — licencias, usuarios y contactos vía Graph API y Exchange. Producción real.
 
