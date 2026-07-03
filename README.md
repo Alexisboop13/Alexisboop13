@@ -5,7 +5,7 @@ Data Engineer. Automatizo flujos de datos en producción real.
 
 ---
 
-**Stack: Python · SQL · PowerShell · PostgreSQL · FastAPI · Node.js · Airflow · AWS (S3, Glue, Athena)
+**Stack: Python · SQL · PowerShell · PostgreSQL · FastAPI · Node.js · Airflow · AWS (S3, Glue, Athena)**
 
 ---
 
